@@ -1,10 +1,12 @@
+import { Toaster } from "react-hot-toast";
+import Routers from "./routes";
+
 function App() {
   return (
-    <div>
-      <h1 className="text-5xl font-bold text-center text-primaryCol">
-        zynmart is loading...!
-      </h1>
-    </div>
+    <>
+      <Toaster />
+      <Routers />
+    </>
   );
 }
 
