@@ -14,7 +14,7 @@ const Footer = () => {
 
 
       <footer className="bg-gray-900 text-white py-10 w-full fixed bottom-0">
-        <section className="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <section className="container mx-auto grid grid-cols-1  md:grid-cols-2 lg:grid-cols-4 gap-8">
 
           {/* About Us Section */}
           <div>
