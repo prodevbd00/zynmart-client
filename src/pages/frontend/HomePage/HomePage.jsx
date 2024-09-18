@@ -1,4 +1,5 @@
 import toast from "react-hot-toast";
+import BrandsClient from "../../../components/frontComponents/BrandsClients/BrandsClient";
 
 const HomePage = () => {
   return (
@@ -7,6 +8,8 @@ const HomePage = () => {
       <button onClick={() => toast.success("wow it's working!")}>
         click me to notify
       </button>
+      <BrandsClient></BrandsClient>
+      
     </div>
   );
 };

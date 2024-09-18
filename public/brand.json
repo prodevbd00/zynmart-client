@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "alt": "Company Logo1",
+      "src": "../src/assets/BrandsImg/1.webp"
+    },
+    {
+      "id": 2,
+      "alt": "Company Logo2",
+      "src": "../src/assets/BrandsImg/2.webp"
+    },
+    {
+      "id": 3,
+      "alt": "Company Logo3",
+      "src": "../src/assets/BrandsImg/3.webp"
+    },
+    {
+      "id": 4,
+      "alt": "Company Logo4",
+      "src": "../src/assets/BrandsImg/4.webp"
+    },
+    {
+      "id": 5,
+      "alt": "Company Logo5",
+      "src": "../src/assets/BrandsImg/5.webp"
+    },
+    {
+      "id": 6,
+      "alt": "Company Logo6",
+      "src": "../src/assets/BrandsImg/1.webp"
+    }
+  ]
+  

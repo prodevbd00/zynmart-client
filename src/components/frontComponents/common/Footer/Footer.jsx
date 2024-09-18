@@ -13,11 +13,11 @@ const Footer = () => {
     <>
 
 
-      <footer className="bg-gray-900 text-white py-10 w-full fixed bottom-0">
-        <section className="container mx-auto grid grid-cols-1  md:grid-cols-2 lg:grid-cols-4 gap-8">
+      <footer className="bg-gray-900 text-white py-10 w-full  ">
+        <section className="container mx-auto grid grid-cols-1  md:grid-cols-2 lg:grid-cols-4 gap-8 px-5">
 
           {/* About Us Section */}
-          <div>
+          <div className="">
             <h3 className="text-xl font-bold mb-4">ABOUT US</h3>
             <p className="text-gray-400 mb-6">
               Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
